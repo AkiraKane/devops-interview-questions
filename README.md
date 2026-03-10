@@ -159,5 +159,13 @@ How questions were sourced -> <a href="https://prepare.sh/documentation/how-prep
 ---
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/alexmuradov/">
+    <img src="lnkd.jpg" alt="Follow me on LinkedIn" width="200"/>
+    <br/>
+    <b>Follow me on LinkedIn</b>
+  </a>
+</p>
+
+<p align="center">
   <b>⭐ Found this helpful? Give it a star and share with your friends preparing for DevOps interviews! ⭐</b>
 </p>
